@@ -44,13 +44,9 @@ Here are some technologies I've worked with:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhinav-Kamatamu&color=blue&style=flat-square)
 
-## Stats 🎉
-
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Kamatamu&show_icons=true&hide=stars&count_private=true&theme=radical)
-
 ## How To Reach Me
 
-Feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/abhinavkamatamu/) or shoot me an email at **[your.email@example.com]**. Let's connect and collaborate on something awesome!
+Feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/abhinavkamatamu/) or shoot me an email at **[abhinav.kamatamu@gmail.com]**. Let's connect and collaborate on something awesome!
 
 ---
 
