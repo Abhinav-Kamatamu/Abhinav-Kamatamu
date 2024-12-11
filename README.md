@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello there! 👋 I'm Abhinav Kamatamu
 
-I'm a tech enthusiast who's passionate about creating, learning, and sharing knowledge. My primary interests revolve around computer science, mathematics, and creating cool stuff using tools like Blender. Here's a bit about me:
+What makes me special you ask? I'm a tech enthusiast who's passionate about creating, learning, and sharing knowledge. My primary interests revolve around computer science, mathematics, and creating cool stuff using tools like Blender. Here's a bit about me:
 
 ## About Me
 - 🌐 Currently exploring **web development** and **open source**.
